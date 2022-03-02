@@ -7,4 +7,6 @@ Mañana nos enfocaremos en su vida laboral.
 Editado desde github
 Carita triste carita triste
 
+Master 1
+
 hice un cambio desde mi computadora local de escritorio y ahora estoy en un fork
